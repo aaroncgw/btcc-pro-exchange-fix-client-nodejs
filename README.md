@@ -1,5 +1,7 @@
-node-quickfix
+btcc-pro-exchange-fix-client-nodejs
 ==========
+
+forked from node-quickfix
 
 This is a node.js wrapper of the popular QuickFIX library. Information about QuickFIX can be found at http://quickfixengine.org/. FIX is a standardized messaging protocol used for electronic communication of financial information. More information about FIX can be found at http://www.fixprotocol.org/
 
